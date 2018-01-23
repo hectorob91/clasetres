@@ -1,2 +1,4 @@
 # clasetres
-Ejercicio de la clase tres
+
+Ejercicio para la clase tres
+Clase de prueba de css
